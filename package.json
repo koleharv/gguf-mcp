@@ -29,6 +29,10 @@
   ],
   "license": "MIT",
   "author": "Kole Harvey",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arose26/gguf-mcp.git"
+  },
   "engines": {
     "node": ">=18"
   },
