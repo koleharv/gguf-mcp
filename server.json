@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.arose26/gguf-mcp",
+  "description": "Inspect local GGUF and safetensors model files: architecture, quantization, parameters, tensors, and VRAM-fit estimates from headers only — never loads the model.",
+  "repository": {
+    "url": "https://github.com/arose26/gguf-mcp",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "gguf-mcp",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

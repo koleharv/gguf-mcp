@@ -1,6 +1,7 @@
 {
   "name": "gguf-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "mcpName": "io.github.arose26/gguf-mcp",
   "description": "MCP server that inspects local GGUF and safetensors model files — architecture, quantization, parameters, tensors, and VRAM-fit estimates from headers only, without loading the model",
   "type": "module",
   "bin": {
