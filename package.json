@@ -1,7 +1,7 @@
 {
   "name": "gguf-mcp",
-  "version": "0.1.1",
-  "mcpName": "io.github.arose26/gguf-mcp",
+  "version": "0.1.2",
+  "mcpName": "io.github.koleharv/gguf-mcp",
   "description": "MCP server that inspects local GGUF and safetensors model files — architecture, quantization, parameters, tensors, and VRAM-fit estimates from headers only, without loading the model",
   "type": "module",
   "bin": {
@@ -32,7 +32,7 @@
   "author": "Kole Harvey",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arose26/gguf-mcp.git"
+    "url": "git+https://github.com/koleharv/gguf-mcp.git"
   },
   "engines": {
     "node": ">=18"
